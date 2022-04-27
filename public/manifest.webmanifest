@@ -1,0 +1,32 @@
+{
+  "background_color": "black",
+  "categories": ["education", "entertainment", "productivity", "utilities"],
+  "description": "The simplest Progressive Web App ever? It's just a black window / screen, but it can be used to test PWA support on any browser and platform. Other uses?",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/icons/blackpwa-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icons/blackpwa-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en-US",
+  "name": "Black PWA",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "scope": "/",
+  "screenshots": [],
+  "short_name": "Black PWA",
+  "shortcuts": [],
+  "start_url": "/",
+  "theme_color": "black"
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!---
+  Black PWA
+  Copyright (c) 2018-2022 Tecdrop. All rights reserved.
+  Licensed under the MIT license.
+  https://www.tecdrop.com
+-->
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Black PWA</title>
+  <meta name="description" content="The simplest Progressive Web App ever? It's just a black window / screen, but it can be used to test PWA support on any browser and platform. Other uses?">
+
+  <link rel="stylesheet" href="/styles/app.css">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <meta name="theme-color" content="#000000" />
+  <link rel="apple-touch-icon" href="/images/icons/blackpwa-apple-touch-icon.png">
+</head>
+
+<body>
+  <!-- We need some content for the Lighthouse audit to pass. It's black on black, so it's invisible. -->
+  <p>The Simplest Progressive Web App Ever?</p>
+
+  <script type="module" src="/scripts/app.js"></script>
+
+  <script>
+    // Register service worker
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js');
+      });
+    }
+  </script>
+</body>
+
+</html>
