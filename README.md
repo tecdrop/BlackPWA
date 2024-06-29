@@ -19,6 +19,18 @@ Is this the simplest PWA (Progressive Web App) ever? It's just a black browser t
 - **Simple Installation:** Easily installed directly from the browser.
 - **Small Disk Space:** Occupies a small amount of disk space (around 1.4 MB).
 
+## Support Us
+
+BlackPWA is free, and we love creating and sharing projects like this with the community. If you find BlackPWA useful and want to support Tecdrop, consider purchasing our [Pitch Black Wallpaper Pro](https://www.tecdrop.com/pitchblackwallpaperpro/) app. Both apps revolve around the simplicity and elegance of the color black, making Pitch Black Wallpaper Pro a natural choice for BlackPWA users.
+
+**Pitch Black Wallpaper Pro:**
+
+- Offers hundreds of pitch black, dark, and AI-generated wallpapers.
+- Enhances battery life on OLED screens.
+- Reduces eyestrain with soothing dark backgrounds.
+
+Check it out here: [Pitch Black Wallpaper Pro](https://www.tecdrop.com/pitchblackwallpaperpro/).
+
 ## License
 
 Because BlackPWA may be the simplest PWA ever, it's only fitting that it uses the MIT License, which may be the simplest license ever. This straightforward and permissive license allows you to use, copy, modify, and distribute the software with ease. For more details, see the [LICENSE](LICENSE) file.
