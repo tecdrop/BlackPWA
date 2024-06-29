@@ -1,7 +1,7 @@
 /*
  *
  *  Black PWA
- *  Copyright (c) 2018-2022 Tecdrop. All rights reserved.
+ *  Copyright (c) 2018-2024 Tecdrop. All rights reserved.
  *  Licensed under the MIT license.
  *  https://www.tecdrop.com
  *
