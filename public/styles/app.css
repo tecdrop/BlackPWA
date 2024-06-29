@@ -2,3 +2,15 @@ body {
   background: black;
   color: black;
 }
+
+/* The "title bar" div that is used to drag the window around. */
+.empty-title-bar {
+  position: fixed;
+  -webkit-app-region: drag;
+  app-region: drag;
+
+  left: env(titlebar-area-x, 0);
+  top: env(titlebar-area-y, 0);
+  width: env(titlebar-area-width, 100%);
+  height: env(titlebar-area-height, 33px);
+}

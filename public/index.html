@@ -20,8 +20,10 @@
 </head>
 
 <body>
-  <!-- We need some content for the Lighthouse audit to pass. It's black on black, so it's invisible. -->
-  <p>The Simplest Progressive Web App Ever?</p>
+
+  <!-- Because we are using the Window Controls Overlay feature, we need to add a "title bar" div to enable dragging the window -->
+  <div class="empty-title-bar">
+  </div>
 
   <script type="module" src="/scripts/app.js"></script>
 

@@ -4,6 +4,7 @@
   "description": "The simplest Progressive Web App ever? It's just a black window / screen, but it can be used to test PWA support on any browser and platform. Other uses?",
   "dir": "ltr",
   "display": "standalone",
+  "display_override": ["window-controls-overlay"],
   "icons": [
     {
       "src": "/images/icons/blackpwa-app-icon-192.png",
