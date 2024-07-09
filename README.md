@@ -5,7 +5,7 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tecdrop/BlackPWA)](https://github.com/tecdrop/BlackPWA)
 [![Static Badge](https://img.shields.io/badge/lighthouse-100-00CC66?style=flat&logo=lighthouse)](https://pagespeed.web.dev/analysis/https-blackpwa-tecdrop-com/oryfk7d8jx?form_factor=desktop)
 
-Is this the simplest Progressive Web App (PWA) ever? It's just a black browser tab / window / screen, but its simplicity offers diverse potential uses, from enhancing focus to serving as a privacy screen. Despite its minimalist appearance, BlackPWA's utility can extend beyond initial expectations.
+Is this the simplest PWA (Progressive Web App) ever? It's just a black browser tab / window / screen, but its simplicity offers diverse potential uses, from enhancing focus to serving as a privacy screen. Despite its minimalist appearance, BlackPWA's utility can extend beyond initial expectations.
 
 | The BlackPWA window on macOS | BlackPWA in full screen mode on macOS |
 | :---: | :---: |
@@ -19,7 +19,7 @@ Is this the simplest Progressive Web App (PWA) ever? It's just a black browser t
 - **Presentation Background:** Neutral background for presentations or video calls.
 - **Privacy Screen:** Quickly hide parts of the desktop or the entire desktop to maintain privacy.
 - **PWA Testing:** Check if your browser and device can install and display Progressive Web Apps properly.
-- **Screen Management:** Hide secondary screens, save power on OLED screens, and prevent screen burn-in without turning screens off.
+- **Screen Management:** Hide screens, save power, and prevent burn-in without turning screens off.
 
 ## Benefits
 
