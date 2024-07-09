@@ -7,7 +7,7 @@
  *
  */
 
-const curCacheVersion = "2";
+const curCacheVersion = "3";
 const curCacheName = `blackpwa-${curCacheVersion}`;
 const urlsToCache = [
   '/',
