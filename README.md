@@ -1,9 +1,9 @@
 # BlackPWA
 
-![Static Badge](https://img.shields.io/badge/-installable-5A0FC8?logo=pwa)
-![GitHub License](https://img.shields.io/github/license/tecdrop/BlackPWA)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tecdrop/BlackPWA)
-![Static Badge](https://img.shields.io/badge/lighthouse-100-00CC66?style=flat&logo=lighthouse)
+[![Static Badge](https://img.shields.io/badge/-installable-5A0FC8?logo=pwa)](https://blackpwa.tecdrop.com/)
+[![GitHub License](https://img.shields.io/github/license/tecdrop/BlackPWA)](LICENSE)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tecdrop/BlackPWA)](https://github.com/tecdrop/BlackPWA)
+[![Static Badge](https://img.shields.io/badge/lighthouse-100-00CC66?style=flat&logo=lighthouse)](https://pagespeed.web.dev/analysis/https-blackpwa-tecdrop-com/oryfk7d8jx?form_factor=desktop)
 
 Is this the simplest PWA (Progressive Web App) ever? It's just a black browser tab / window / screen, but its simplicity offers diverse potential uses, from enhancing focus to serving as a privacy screen. Despite its straightforward appearance, BlackPWA's utility extends far beyond initial expectations.
 
