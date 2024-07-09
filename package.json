@@ -1,6 +1,5 @@
 {
   "author": "Tecdrop",
-  "browser": "public/scripts/app.js",
   "description": "The simplest Progressive Web App ever? It's just a black window / screen, but it can be used to test PWA support on any browser and platform. Other uses?",
   "homepage": "https://www.tecdrop.com",
   "keywords": [],
