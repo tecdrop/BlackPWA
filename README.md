@@ -2,6 +2,10 @@
 
 Is this the simplest PWA (Progressive Web App) ever? It's just a black browser tab / window / screen, but its simplicity offers diverse potential uses, from enhancing focus to serving as a privacy screen. Despite its straightforward appearance, BlackPWA's utility extends far beyond initial expectations.
 
+| The BlackPWA window on macOS | BlackPWA in full screen mode on macOS |
+| :---: | :---: |
+| ![The BlackPWA window on macOS](repo-assets/blackpwa-macos-window-screenshot.jpg) | ![The BlackPWA window on macOS](repo-assets/blackpwa-macos-fullscreen-screenshot.png) |
+
 ## Potential Uses
 
 - **Distraction-Free Writing:** Minimal visual clutter for focused writing or brainstorming.
